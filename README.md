@@ -1,5 +1,6 @@
-# Perfil Gonzalo Juárez del Río
 <div align="center">
+# Perfil Gonzalo Juárez del Río
+
 <center>Hola, soy Gonzalo Juárez, Bienvenido a mi perfil.</center>
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
