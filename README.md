@@ -1,35 +1,45 @@
-<div align="center">
 # Perfil Gonzalo Juárez del Río
 
-<center>Hola, soy Gonzalo Juárez, Bienvenido a mi perfil.</center>
+<div align="center">
+
+<center>Hola, soy Gonzalo Juárez, Bienvenido a mi perfil:</center>
+
+Actualmente estoy cursando en Conquerbloks el modulo Full Stack. Donde me estoy formando para convertirme en un desarrollador full stack.
+Estoy inicindome en este gran mundo simpre fomadome tanto con libros y con videos en YouTube.
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
-Actualmente estoy cursando en Conquerbloks el modulo Full Stack. Donde me estoy formando para convertirme en un desarrollador full stack. 
-
 - ## Lenguajes
-    
-    ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
-   
-- ## Base de Datos    
-    ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
+  ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
+- ## Base de Datos
+
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
 
 - ## Controles de version & CI/CD
-    ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-    ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-    ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
-    
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+  ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
 - ## IDEs & Herramientas
-    ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-    ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
-    ![alt text](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b-1.svg)
- 
-    ### 🤝🏻  Conéctate conmigo
+
+  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+  ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
+  ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+### 🤝🏻 Conéctate conmigo
+
+<a href="gonzalojuarezdelrio@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+
+</a>
+<a href="https://www.linkedin.com/in/gonzalo-ju%C3%A1rez-del-r%C3%ADo-b62145226/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 <p align="center">
 
-<a href="mailto:gonzalojuarezdelrio@gmail.com"><img src="https://img.shields.io/badge/-gonzaloJ-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+![alt text](code.gif)
 
-![alt text](footer.webp)
+Créditos: [ponce894](https://github.com/ponce894)
 
-Créditos: [ponce894]https://github.com/ponce894
+Última edición:20-03-25
+
